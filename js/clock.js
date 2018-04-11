@@ -5,6 +5,7 @@
   var minuteHand = document.querySelector('.hand-minute');
   var hourHand = document.querySelector('.hand-hour');
 
+
 // Функция устанавливает часы, минуты и секунды
 // Задает угол поворота стрелок
   function setData() {
